@@ -1,0 +1,34 @@
+site_name: SimpleGate Docs
+site_url: https://net.provodka.pro/
+theme:
+  name: material
+  language: ru
+nav:
+  - Home: README.md
+  - Русский:
+      - Обзор: ru/README.md
+      - Быстрый старт: ru/docs/quick-start.md
+      - Устройства: ru/docs/devices.md
+      - Подписка HAPP: ru/docs/happ-subscription.md
+      - Бесплатные дни: ru/docs/referral-free-days.md
+      - Запасной вход: ru/docs/vk-id-backup-access.md
+      - Проблемы: ru/docs/troubleshooting.md
+      - FAQ: ru/docs/faq.md
+  - English:
+      - Overview: en/README.md
+      - Quick start: en/docs/quick-start.md
+      - Devices: en/docs/devices.md
+      - HAPP subscription: en/docs/happ-subscription.md
+      - Free days: en/docs/referral-free-days.md
+      - Backup access: en/docs/vk-id-backup-access.md
+      - Troubleshooting: en/docs/troubleshooting.md
+      - FAQ: en/docs/faq.md
+  - 中文:
+      - 概览: zh/README.md
+      - 快速开始: zh/docs/quick-start.md
+      - 设备: zh/docs/devices.md
+      - HAPP 订阅: zh/docs/happ-subscription.md
+      - 免费天数: zh/docs/referral-free-days.md
+      - 备用入口: zh/docs/vk-id-backup-access.md
+      - 故障排查: zh/docs/troubleshooting.md
+      - 常见问题: zh/docs/faq.md
